@@ -11,12 +11,23 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
