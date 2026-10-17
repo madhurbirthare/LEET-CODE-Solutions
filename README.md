@@ -12,18 +12,21 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## String
 |  |
@@ -37,4 +40,12 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
