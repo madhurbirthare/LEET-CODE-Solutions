@@ -16,6 +16,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,6 +35,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## String
 |  |
 | ------- |
