@@ -58,4 +58,20 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
