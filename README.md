@@ -17,6 +17,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -36,6 +38,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -50,6 +53,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
