@@ -71,6 +71,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | ------- |
 | [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +84,9 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
