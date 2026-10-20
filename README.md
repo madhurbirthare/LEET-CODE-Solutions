@@ -70,6 +70,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,8 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
