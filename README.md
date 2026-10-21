@@ -12,6 +12,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -33,6 +34,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -65,6 +67,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -89,4 +92,12 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
