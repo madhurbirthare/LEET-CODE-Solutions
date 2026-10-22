@@ -75,6 +75,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0342-power-of-four) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +101,8 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
