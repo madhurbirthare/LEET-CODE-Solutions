@@ -45,6 +45,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0257-binary-tree-paths) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,5 +105,6 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 ## Simulation
 |  |
 | ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
