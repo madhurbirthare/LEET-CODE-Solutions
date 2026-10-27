@@ -76,6 +76,7 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | [0202-happy-number](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0342-power-of-four) |
+| [0670-maximum-swap](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0670-maximum-swap) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
@@ -107,4 +108,8 @@ My LeetCode solutions in C++ to strengthen my Data Structures and Algorithms (DS
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/madhurbirthare/LEET-CODE-Solutions/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
